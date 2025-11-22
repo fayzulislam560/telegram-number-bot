@@ -2,7 +2,7 @@ import pandas as pd
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 
-# আপনার Bot Token এখানে
+# Bot Token
 TOKEN = "8373131918:AAE3imgCIDMUjugfd8XErKXjQuYbfoUBkwc"
 
 numbers = []
